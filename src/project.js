@@ -1,7 +1,6 @@
 import "./project.css";
 import React from "react";
 import "animate.css";
-import images from "./data/image.json";
 
 const Project = (props) => {
   return (
